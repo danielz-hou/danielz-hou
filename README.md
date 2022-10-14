@@ -1,5 +1,6 @@
 <h3 align="center">About Me</h3>
-<h5 align="justify">Mechanical engineering student with 3+ years of hands-on experience in marine robotics designing mechanical components using Solidworks and 7+ years of experience designing, building, and flying model aircraft. Proficient with part and assembly design and basic airfoil analysis. Eagle Scout and FAA licensed pilot. </h5>
+<h5 align="justify"> Passionate mechanical engineering student who’s not afraid to get his hands dirty. Over 8 years of multidisciplinary hands-on experience in mechanical design and engineering. Strong background in manufacturing and aerospace. Innovating unique solutions to complex problems. Eagle Scout and licensed private pilot.
+</h5>
 
 
 - LinkedIn: https://www.linkedin.com/in/danielzhou-eng/
