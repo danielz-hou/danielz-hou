@@ -7,4 +7,5 @@
 
 - Portfolio: [https://danielzhoudaniel.wixsite.com/portfolio](https://danielzhoudaniel.wixsite.com/portfolio)
 
-- Resume: http://bit.ly/daniel-zhou-resume
+<!-- - Resume: http://bit.ly/daniel-zhou-resume
+-->
